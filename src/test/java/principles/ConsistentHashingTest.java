@@ -1,5 +1,0 @@
-package principles;
-
-class ConsistentHashingTest {
-
-}
